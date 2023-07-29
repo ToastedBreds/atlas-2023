@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Åland Islands",
+	"description": "Åland Islands Is a Autonomous region located between Sweden and Finland",
+	"links": {},
+	"path": {
+		"250": [
+			[
+				-232,
+				690
+			],
+			[
+				-235,
+				690
+			],
+			[
+				-237,
+				692
+			],
+			[
+				-236,
+				694
+			],
+			[
+				-233,
+				695
+			],
+			[
+				-230,
+				693
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-234,
+			692
+		]
+	}
+}
